@@ -12,6 +12,6 @@ I am a PhD student at the [Centre for Atmospheric and Oceanic Sciences](https://
 
 After having done my senior secondary schooling from Jaipur (Rajasthan), I obtained my undergraduate degree in Chemical Engineering from the [Birla Institute of Technology and Science, Pilani](https://www.bits-pilani.ac.in/Pilani/index.aspx) in 2018. It was here that I got interested in fluid dynamics as a subject. Thereafter I worked as 'Project Scientist B' at the [International Centre for Theoretical Sciences](https://www.icts.res.in/) for a year, before joining IISc. Here is my [CV](../files/Falor_Devang_CV.pdf).
 
-My research interests lie in the broad field of Physical Oceanography and Geophysical Fluid Dynamics. Specifically, I am working on understanding upper ocean turbulence and mixing under various atmospheric conditions. Please refer to the [Research]() page for more details.
+My research interests lie in the broad field of Physical Oceanography and Geophysical Fluid Dynamics. Specifically, I am working on understanding upper ocean turbulence and mixing under various atmospheric conditions. Please refer to the [Research](research.md) page for more details.
 
 My hobbies include running and playing the violin.

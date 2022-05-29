@@ -5,5 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. **Role of convection in upper ocean mixing during a tropical cyclone**
-     Submitted to <var>Geophysical Research Letters (GRL)<var>
+1. **Falor, D.**, Gayen, B., Sengupta, D., Chaudhuri, D.  Role of convection in upper ocean mixing during a tropical cyclone.
+
+     Submitted to **Geophysical Research Letters (GRL)**

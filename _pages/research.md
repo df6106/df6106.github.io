@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-![](/images/Upper_ocean_processes.png =100x20)
+![](/images/Upper_ocean_processes.png)
 :--:
 *From Wells, N. C. (2011). The atmosphere and ocean: a physical introduction. John Wiley & Sons.*
 

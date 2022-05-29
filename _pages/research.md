@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ![](/images/Upper_ocean_processes.png)
+:--:
 *From Wells 2011*
 
 The air-sea exchange at the oceanatmospheric interface is one of the major drivers behind ocean circulations spanning over a wide range of length scales. The ocean receives momentum, heat, and freshwater fluxes from the atmosphere through this exchange process. Wind shear transfers momentum flux into the ocean, while heating/cooling and evaporation/precipitation drive buoyancy flux from or into the ocean. These fluxes cause upper ocean turbulence and mixing (see figure), which modulate boundary layer and ocean-atmospheric interface properties (like mixed layer depth, sea surface temperature etc.). Thus, an urgent need is to understand this upper ocean mixing to precisely predict its response in a rapidly changing climate.

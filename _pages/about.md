@@ -15,3 +15,4 @@ After having done my senior secondary schooling from Jaipur (Rajasthan), I obtai
 My research interests lie in the broad field of Physical Oceanography and Geophysical Fluid Dynamics. Specifically, I am working on understanding upper ocean turbulence and mixing under various atmospheric conditions. Please refer to the [Research](research.md) page for more details.
 
 My hobbies include running and playing the violin.
+LUL

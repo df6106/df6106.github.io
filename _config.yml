@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Devang Falor"
   avatar           : "profile.png"
-  bio              : "Doctoral Student"
+  bio              : "PMRF Research Scholar"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=yE3WmT0AAAAJ&hl=en&oi=ao"
   email            : devangfalor@iisc.ac.in
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "@df6106"
   vine             :
   weibo            :
   xing             :
